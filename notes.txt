@@ -1,0 +1,8 @@
+# Forum
+
+- Thread
+- Reply
+- User
+
+A. Thread belongs to User and created by User
+B. A reply belongs to Thread and to a User
